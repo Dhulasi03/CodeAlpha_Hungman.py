@@ -17,7 +17,7 @@ This is a classic Hangman game implemented in Python. The user attempts to guess
 - `while` loop, `if-else`
 - `lists`, `strings`
 - User input handling
-Sample Output:
+## Sample Output:
  
  Welcome to Hangman Game
 You have 6 incorrect attempts to guess the word.
